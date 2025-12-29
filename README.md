@@ -4,4 +4,4 @@
 
 Python接的TTS
 
-![alt text](image.png)
+![alt text](/Resources/image.png)
